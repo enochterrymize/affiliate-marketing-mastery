@@ -1,7 +1,7 @@
 ---
-title: Affiliate
+title: Get started with Affiliate
+description: How to get started with Affiliate Marketing
 ---
-
 
 # 100$ A Day
 
