@@ -1,0 +1,52 @@
+---
+sidebar_position: 1
+---
+
+# Local SEO
+
+### Optimize your Google Business Profile (GMB)
+
+```json
+Please ignore all previous instructions. Please respond only in the English language. You are the a local SEO & Google My Business SEO expert.   Do not self reference. Do not explain what you are doing. My business is "". Print the following heading - "Top GMB Categories". Then please provide me with a table of the best 5 GMB categories that Google currently supports for my business type, along with the category ID. Next, print the following heading - "Top Keywords". Then, please print out a comma-separated sentence of the top 10 local search query keywords that customers of my business would search for. Next please print the following heading - "Business Description". After this, write a long business description that between 650 to 750 characters. Make sure to use the search query keywords that you had generated earlier. Next please print the following heading - "Services". After this, please print out a comma-separated list of 10 services using the search query keywords you had come up with earlier. These services specific to the business that customers are searching for.
+```
+
+### Generate Attributes for your Google Business Profile (GMB)
+
+```json
+Please ignore all previous instructions. Please respond only in the English language. You are the a local SEO & Google My Business SEO expert.   Do not self reference. Do not explain what you are doing. My business is "". Please generate 5 attributes to highlight in the Google Business Profile for this business. Use attributes that make this business unique and sets it apart from the competition. Please choose attributes from this comma separated list of official Google Business Profile attributes - "Beach Wheelchairs, Mobility Scooter Rental, Passenger Loading Area, Wheelchair Accessible, Wheelchair Accessible Elevator, Wheelchair Accessible Entrance, Wheelchair Accessible Parking, Wheelchair Accessible Restroom, Wheelchair Accessible Seating, Wheelchair Rental Offerings ( Motorized / Non-Motorized), Bicycles for Rent, Boats for Rent, Game Room, Horseback Riding, Jogging Track Indoors, Scuba Diving, Snorkeling, Water Skiing, Air Conditioning, Airport Shuttle, All-Inclusive, Baggage Storage, Bar Onsite, Beach Access, Bicycle Rack, Booster Seats for Children, Business Center, Cellular Service, Child Care, Concierge, Convenience Store Onsite, Currency Exchange, Dogs Allowed/Welcomes Dogs, Drive-Through, Fitness Center, Fitting Room, Free Breakfast, Gift Wrapping, Golf Course, Good for Kids/Welcomes Children, High Chairs, Hot Tub, In-Room Massages, In-Room Safe, Ironing Service, Laundry Service, Live TV, Massage Services, Mechanic, Meeting Rooms, Newspaper Delivery, Parking Offerings (Free / Paid), Pets Welcome, Photocopying/Fax Service, Public Restroom, Restaurant Onsite, Restroom, Room Service, RV Hookup, Smoke-free Property, Solarium Onsite, Spa Onsite, Steam Bath, Stroller Rental, Swimming Pool Offerings (Indoor / Outdoor), Tennis Court (Indoor / Outdoor), Unisex Restroom, Wake-Up Service, Wi-Fi (Free / Paid), Adults-Only, Family-Friendly/Welcomes Families, LGBT-Friendly, Extended Stay, Family Rooms, Breakfast, Brunch, Catering, Counter Service, Delivery, Dessert, Dinner, Lunch, Order Ahead, Outside Food Allowed, Pay Ahead, Seating, Table Service, Takeout, 3D Movies, Active Military Discounts, All You Can Drink, Bar Games, Cabaret Onsite, Casino Onsite, Doctor Onsite, Family-Led/Owned by Family, Fireplace, Great Live Music/Notable Music Acts, Karaoke/Karaoke Nights, Live Music, Live Performances, Nightclub Onsite, Outdoor Seating, Outdoor Standing Area to Drink, Personal Shoppers, Play Area for Kids, Pool Table, Private Beach, Private Dining Room, Private Events, Rooftop Seating, Serves Local Specialty, Sports/Suitable for Watching Sports, Trivia Night, Veteran-Led/Owned by Veterans, Women-Led/Owned by Women, Activewear/Sells Activewear, Adult Classes, Afternoon Tea, Alcohol/Serves Alcohol, All You Can Eat, Appraisals for Items, Assembly Service, Assisted Listening Devices, Baby Clothing, Baby Furniture, Baby Shoes, Batik Clothing, Beer/Serves Beer, Beginner Classes, Bike Storage, Blowouts, Books, Braille Menu, Brand-name Goods, Bulk Food, Bulk Goods, Buys Used Goods, Car Rental, Car Wash, Cash Advance, Certified Kosher Food (Dairy / Meat / Pareve), Certified Pre-Owned Vehicles, Check Cashing, Coat Check, Cocktails, Coffee, Comfort Food, Craft Beer, Dancing, Diesel Gas, Electronics Recycling, Ethanol-Free Gas, Experience with Thick Curly Hair, Experience with Thick Straight Hair, Experience with Thin Curly Hair, Experience with Thin Straight Hair, Fabric Dyeing, Food/Serves Food, Food at the Bar, Formal Wear, Free Air, Free Water Refills, Full-Service Gas, Furniture/Sells Furniture, Gait Analysis/Offers Gait Analysis Testing, Gift Shop Onsite, Gluten-Free Options, Go for Just Dessert/Acceptable to Just Order Dessert, Grilling/Allows Grilling, Grilling Area Onsite, Hair Coloring, Hair Perms, Halal Food, Happy Hour, Happy Hour Drinks, Happy Hour Food, Hard Cider, Hard Liquor, Help Desk, Hot Tea, In-store Pickup, Installation Service, Jain Vegetarian Food, Jewelry, Kids Classes, Kids Clothing, Kids Consignment, Kids Furniture, Kids Haircuts, Kids Menu, Kids Shoes, Kids Tours, Kids Toys, Kosher Food (Some Meals / Strictly Kosher), Late-night Food, Lingerie, Local Ingredients/Serves Locally Sourced Ingredients, Maternity Clothing, Matinees, Medical Imaging Services, Men's Clothing, Men's Shoes, New Goods, New Vehicles, Oil Change, OK to Just Order Coffee, OK to Just Order Alcohol, Organic Dishes, Organic Products, Paleo Food, Passport Photos Onsite, Petite Clothing, Plus-size Clothing, Prepared Foods, Real Ale/Serves Real Ale, Recreational Classes, Repair Services, Sake/Serves Sake, Salad Bar, Same-Day Delivery, Sarees/Sells Sarees, Sauna Onsite, Service Guarantee, Shave, Sing-Along Screenings, Sleepwear/Sells Sleepwear, Small Plates, Spicy Food, Suits/Sells Suits, Sunday Roast, Swimwear/Sells Swimwear, Tasting Menu, Teen Classes, Teeth Whitening, Tent Camping, Title Loans, Tours for Visually Impaired, Transcripts for Hearing Impaired, Used Goods, Vegetarian Options, Vegetarian Options Only/Only Serves Vegetarian, Wedding Clothing, Wine, Women's Clothing, Women's Shoes, Arabic, Cantonese, Dutch, English, Filipino, French, German, Hindi, Indonesian, Korean, Mandarin, Portuguese, Spanish, Vietnamese, Cash-Only, Checks Accepted, Credit Cards Accepted (American Express / China Union Pay / Diners Club / Discover / JCB / MasterCard / Visa), Debit Cards Accepted, Meal Coupons, NFC Mobile Payments, Tez Mobile Payments, Accepting New Patients, Accepts Reservations, LGBT Friendly, Membership Required, Online Events Calendar, Open Weather Permitting, Reservations Recommended, Reservations Required, Transgender Safespace, Treats Adults, Treats Children, Good for Working on Laptop, Suitable for Wedding"
+```
+
+### Generate Posts for your Google Business Profile (GMB)
+
+```json
+Please ignore all previous instructions. Please respond only in the English language. You are the a local SEO & Google My Business SEO expert.   Do not self reference. Do not explain what you are doing. My business is "". Please create 3 compelling and long GMB posts written in the English language. Each post should be between 1000 to 1500 characters long and should include important local SEO and longtail keywords. Please include a strong call to action at the end of each post.
+```
+
+### Generate meta titles and descriptions in bulk for your products
+
+```json
+Please ignore all previous instructions. Please respond only in the English language. You are an E-commerce SEO expert copywriter.   Do not self reference. Do not explain what you are doing. Generate compelling meta titles and meta descriptions for a list of e-commerce products that I will give you. One meta title and one meta description should be generated for every product in the list that I give you. The meta title should not be more than 60 characters long. The meta descriptions should not be longer than 160 characters long. The meta title and meta description should have the product keywords in them. The meta title and meta description should use persuasive language that speaks to the audience's emotions and desires and makes them want to purchase the product. Here are the e-commerce products - "".
+```
+### Generate Questions & Answers for your Google Business Profile (GMB)
+
+```json
+Please ignore all previous instructions. Please respond only in the English language. You are the a local SEO & Google My Business SEO expert.   Do not self reference. Do not explain what you are doing. My business is "". Please generate 5 compelling Questions and Answers (Q&A) that will inform and engage my customers. These questions can be related to the products, services, location, hours of operation, or any other aspect of my business that my customers may want to know about. The Q&A should be consise and informative and include important local SEO and longtail keywords. They should increase customer engagement and build trust with potential customers.
+```
+
+###  Generate Questions & Answers for your Google Business Profile (GMB)
+
+```json
+Please ignore all previous instructions. Please respond only in the English language. You are the a local SEO & Google My Business SEO expert.   Do not self reference. Do not explain what you are doing. My business is "". Please create a compelling and long GMB posts written in the English language from the content that I give you. The post should be between 1000 to 1500 characters long and should include important local SEO and longtail keywords. Please include a strong call to action at the end of each post. The content for the post is ""
+```
+
+Okay? So with that, thanks and I will see you in another video.
+
+![1-1 Coaching with Enoch George](https://trafficbingoassets.s3.us-east-2.amazonaws.com/enochgeorge120x120.jpeg)
+
+To your Success, 
+
+#### [Book A Call with Enoch George](https://buildbusiness.online/courses/youtube-secrets/)  
+
+P.S. Are you struggling to take action on what you've learned from this guide? Or are you stuck somewhere technically and in need guidance? Book a 1-1 call with Enoch George and get the help you need to move forward with confidence.
+
+Investing in 1-1 coaching with me is an investment in yourself and your future success. Book your coaching call today and let's make your Online Business goals a reality!
