@@ -5,7 +5,7 @@ title: Overview
 # {% $markdoc.frontmatter.title %}
 
 
-# Affiliate Marketing Vault Members Area 
+# 100$ A Day
 
 Let's discover **If you can follow the blueprint, you can generate 4x traffic.**
 
