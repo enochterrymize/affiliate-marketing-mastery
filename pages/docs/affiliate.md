@@ -1,8 +1,6 @@
 ---
-title: Overview
+title: Affiliate
 ---
-
-# {% $markdoc.frontmatter.title %}
 
 
 # 100$ A Day
